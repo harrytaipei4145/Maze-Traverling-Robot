@@ -1,1 +1,1 @@
-# Maze-Traversing-Robot
+# Maze-Traverling-Robot
